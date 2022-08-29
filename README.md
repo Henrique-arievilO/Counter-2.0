@@ -27,9 +27,9 @@
 <div display="flex"><div>
 
 <p>
-- Ao clilcar em <button>+</button> será adicionado mais 1 número.</p>
-- Ao clilcar em <button>-</button> será reduzido mais 1 número.</p>
-- Ao clilcar em <button>Reset</button> a contagem  volta para o úmero oiginal.</p>
+- Ao clicar em <button>+</button> será adicionado mais 1 número.</p>
+- Ao clicar em <button>-</button> será reduzido menos 1 número.</p>
+- Ao clicar em <button>Reset</button> a contagem  volta para o número original.</p>
 </div>
 <br>
 <h2><img width="40px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/magnifying-glass-tilted-left_1f50d.png">Preview:</h2>
