@@ -35,5 +35,6 @@
 <h2><img width="40px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/magnifying-glass-tilted-left_1f50d.png">Preview:</h2>
 <div align="center">
 
-<img width="300px" src="src/assets/screens.png">
+<img align="left" width="150px" src="https://user-images.githubusercontent.com/104616883/187174693-708c1220-66d1-4e53-8ee3-43bbecb43ed1.gif">
+<img align="right" width="300px" src="src/assets/screens.png">
 </div>
